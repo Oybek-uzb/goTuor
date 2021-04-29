@@ -1,0 +1,5 @@
+mode: set
+github.com/Oybek-uzb/first-go/testing-task/hello.go:7.31,9.19 1 1
+github.com/Oybek-uzb/first-go/testing-task/hello.go:9.19,11.3 1 1
+github.com/Oybek-uzb/first-go/testing-task/hello.go:11.8,13.3 1 1
+github.com/Oybek-uzb/first-go/testing-task/main.go:7.13,11.2 2 0
